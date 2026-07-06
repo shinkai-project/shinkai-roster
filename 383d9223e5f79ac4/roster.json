@@ -1,13 +1,13 @@
 {
- "ver": "2026-07-07-0418",
+ "ver": "2026-07-07-0431",
  "members": [
   {
    "h": "3c4680b88bb480584fe060897359ef95585ae0aada8ad6a37d5926f7dd1ffdc1",
-   "kind": 1,
-   "name": "メイ",
-   "logo": 10,
-   "title": "BarAerly店主",
-   "ap": 70,
+   "kind": 2,
+   "name": "アキ",
+   "logo": 13,
+   "title": "住民",
+   "ap": 0,
    "bp": 0
   },
   {
@@ -71,6 +71,15 @@
    "logo": 12,
    "title": "朝焼けのカフェ店主",
    "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "9e15f37bb2e2319d80972c72315bfce5d6d1b6e1927a7c8e34bda46b6ffeadc9",
+   "kind": 1,
+   "name": "メイ",
+   "logo": 10,
+   "title": "BarAerly店主",
+   "ap": 70,
    "bp": 0
   }
  ]
