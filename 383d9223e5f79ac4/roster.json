@@ -1,5 +1,15 @@
 {
- "ver": "2026-07-06-1547",
+ "ver": "2026-07-06-1621",
  "erasedLabel": "DELETED",
- "members": []
+ "members": [
+  {
+   "h": "3c4680b88bb480584fe060897359ef95585ae0aada8ad6a37d5926f7dd1ffdc1",
+   "name": "メイ",
+   "title": "BarAerly",
+   "titleColor": "#000000",
+   "logo": 1,
+   "ap": 70,
+   "bp": 0
+  }
+ ]
 }
