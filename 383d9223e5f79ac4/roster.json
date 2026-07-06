@@ -1,14 +1,14 @@
 {
- "ver": "skoke-delete",
+ "ver": "2026-07-06-1840",
  "members": [
   {
-   "h": "8f509a87debda85ffa1607c7213b356a544dfc027555211c38554b9573dcc6f6",
+   "h": "3c4680b88bb480584fe060897359ef95585ae0aada8ad6a37d5926f7dd1ffdc1",
    "kind": 1,
    "name": "メイ",
    "logo": 1,
    "title": "BarAerly",
-   "ap": 100,
-   "bp": 3
+   "ap": 70,
+   "bp": 0
   }
  ]
 }
