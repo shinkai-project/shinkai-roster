@@ -1,14 +1,14 @@
 {
- "ver": "holo2-test",
+ "ver": "2026-07-06-2159",
  "members": [
   {
-   "h": "8f509a87debda85ffa1607c7213b356a544dfc027555211c38554b9573dcc6f6",
+   "h": "3c4680b88bb480584fe060897359ef95585ae0aada8ad6a37d5926f7dd1ffdc1",
    "kind": 1,
    "name": "メイ",
-   "logo": 0,
-   "title": "BarAerly",
+   "logo": 1,
+   "title": "BarAerly店主",
    "ap": 70,
-   "bp": 5
+   "bp": 0
   }
  ]
 }
