@@ -1,14 +1,77 @@
 {
- "ver": "frame4-test",
+ "ver": "2026-07-07-0418",
  "members": [
   {
-   "h": "8f509a87debda85ffa1607c7213b356a544dfc027555211c38554b9573dcc6f6",
+   "h": "3c4680b88bb480584fe060897359ef95585ae0aada8ad6a37d5926f7dd1ffdc1",
    "kind": 1,
    "name": "メイ",
    "logo": 10,
    "title": "BarAerly店主",
-   "ap": 100,
-   "bp": 5
+   "ap": 70,
+   "bp": 0
+  },
+  {
+   "h": "ecab15a0dc5f41e30a1dc80e0a810b1ab7d2194cc98220c6f35a5fdf4e69a4ae",
+   "kind": 1,
+   "name": "アオ",
+   "logo": 8,
+   "title": "忘却の歌姫",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "4fc9e391035216298549f9e03b760ddf52bf1639df0018afeaf9050e8bc0d02c",
+   "kind": 1,
+   "name": "アイ",
+   "logo": 9,
+   "title": "絶望の歌姫",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "8732678a83706ac19ccb237da6be006eceb762eabc705221351ac56a012889bf",
+   "kind": 1,
+   "name": "ゼロ",
+   "logo": 2,
+   "title": "ゼロの教会教祖",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "6b48c121566769e7966d0aeb38e1c0f94d9c77998a2fa5f9cabbcafb88951bd7",
+   "kind": 1,
+   "name": "ドルゲ",
+   "logo": 7,
+   "title": "ヨーカイ",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "fca6770500d10969fb917225efd67574d80c05ee9e6d2462451031f89fda6ecf",
+   "kind": 1,
+   "name": "サラ",
+   "logo": 2,
+   "title": "愛の狂信者",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "e64a1c1e48ffd7c21e5c51cf10239cf8ef29492d7aa8356a6580473abbf3a4ac",
+   "kind": 1,
+   "name": "ベラ",
+   "logo": 11,
+   "title": "酩酊の闇医者",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "9c4089f00da43cf705a8d5ed433bcb6e3342f2377cae17ab060544d2f0e7d8b3",
+   "kind": 1,
+   "name": "ユラ",
+   "logo": 12,
+   "title": "朝焼けのカフェ店主",
+   "ap": 0,
+   "bp": 0
   }
  ]
 }
