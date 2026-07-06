@@ -1,5 +1,15 @@
 {
- "ver": "init",
+ "ver": "smoketest-01",
  "erasedLabel": "DELETED",
- "members": []
+ "members": [
+  {
+   "h": "8f509a87debda85ffa1607c7213b356a544dfc027555211c38554b9573dcc6f6",
+   "name": "テスト住民",
+   "title": "検証中",
+   "titleColor": "#8ECAE6",
+   "logo": 0,
+   "ap": 15,
+   "bp": 7
+  }
+ ]
 }
