@@ -1,14 +1,14 @@
 {
- "ver": "2026-07-07-0643",
+ "ver": "2026-07-07-1401",
  "members": [
   {
-   "h": "3c4680b88bb480584fe060897359ef95585ae0aada8ad6a37d5926f7dd1ffdc1",
-   "kind": 2,
-   "name": "スタッフ",
-   "logo": 13,
-   "title": "-",
-   "ap": 0,
-   "bp": 0
+   "h": "8f1063778377faeae5d762bb70331b9341df0c10821b7f67c205a18586b75bb4",
+   "kind": 0,
+   "name": "カリノ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 40,
+   "bp": 2
   },
   {
    "h": "ecab15a0dc5f41e30a1dc80e0a810b1ab7d2194cc98220c6f35a5fdf4e69a4ae",
