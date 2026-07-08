@@ -1,13 +1,13 @@
 {
- "ver": "2026-07-08-1350",
+ "ver": "2026-07-08-1733",
  "members": [
   {
    "h": "3c4680b88bb480584fe060897359ef95585ae0aada8ad6a37d5926f7dd1ffdc1",
-   "kind": 1,
-   "name": "ソラカリノ",
-   "logo": 7,
-   "title": "だれのものか",
-   "ap": 100,
+   "kind": 2,
+   "name": "スタッフ",
+   "logo": 13,
+   "title": "SHINKAI PR",
+   "ap": 20,
    "bp": 5
   },
   {
@@ -16,8 +16,8 @@
    "name": "アオ",
    "logo": 8,
    "title": "忘却の歌姫",
-   "ap": 0,
-   "bp": 0
+   "ap": 2,
+   "bp": 5
   },
   {
    "h": "4fc9e391035216298549f9e03b760ddf52bf1639df0018afeaf9050e8bc0d02c",
@@ -25,17 +25,17 @@
    "name": "アイ",
    "logo": 9,
    "title": "絶望の歌姫",
-   "ap": 0,
-   "bp": 0
+   "ap": 100,
+   "bp": 22
   },
   {
    "h": "8732678a83706ac19ccb237da6be006eceb762eabc705221351ac56a012889bf",
    "kind": 1,
    "name": "ゼロ",
    "logo": 2,
-   "title": "ゼロの教会教祖",
+   "title": "ゼロの教会 教祖",
    "ap": 0,
-   "bp": 0
+   "bp": 4
   },
   {
    "h": "6b48c121566769e7966d0aeb38e1c0f94d9c77998a2fa5f9cabbcafb88951bd7",
@@ -43,8 +43,8 @@
    "name": "ドルゲ",
    "logo": 7,
    "title": "ヨーカイ",
-   "ap": 0,
-   "bp": 0
+   "ap": 45,
+   "bp": 2
   },
   {
    "h": "fca6770500d10969fb917225efd67574d80c05ee9e6d2462451031f89fda6ecf",
@@ -52,8 +52,8 @@
    "name": "サラ",
    "logo": 2,
    "title": "愛の狂信者",
-   "ap": 0,
-   "bp": 0
+   "ap": 2,
+   "bp": 3
   },
   {
    "h": "e64a1c1e48ffd7c21e5c51cf10239cf8ef29492d7aa8356a6580473abbf3a4ac",
@@ -61,8 +61,8 @@
    "name": "ベラ",
    "logo": 11,
    "title": "酩酊の闇医者",
-   "ap": 0,
-   "bp": 0
+   "ap": 35,
+   "bp": 3
   },
   {
    "h": "9c4089f00da43cf705a8d5ed433bcb6e3342f2377cae17ab060544d2f0e7d8b3",
@@ -70,17 +70,17 @@
    "name": "ユラ",
    "logo": 12,
    "title": "朝焼けのカフェ店主",
-   "ap": 0,
-   "bp": 0
+   "ap": 4,
+   "bp": 2
   },
   {
    "h": "9e15f37bb2e2319d80972c72315bfce5d6d1b6e1927a7c8e34bda46b6ffeadc9",
    "kind": 1,
    "name": "メイ",
    "logo": 10,
-   "title": "BarAerly店主",
+   "title": "BarAerly 店",
    "ap": 60,
-   "bp": 0
+   "bp": 2
   }
  ]
 }
