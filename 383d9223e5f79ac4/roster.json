@@ -1,14 +1,14 @@
 {
- "ver": "2026-07-07-1404",
+ "ver": "2026-07-08-1151",
  "members": [
   {
    "h": "3c4680b88bb480584fe060897359ef95585ae0aada8ad6a37d5926f7dd1ffdc1",
-   "kind": 0,
-   "name": "カリノ",
-   "logo": 0,
-   "title": "深海の住民",
-   "ap": 40,
-   "bp": 2
+   "kind": 1,
+   "name": "ソラカリノ",
+   "logo": 7,
+   "title": "だれのものか",
+   "ap": 30,
+   "bp": 5
   },
   {
    "h": "ecab15a0dc5f41e30a1dc80e0a810b1ab7d2194cc98220c6f35a5fdf4e69a4ae",
@@ -79,7 +79,7 @@
    "name": "メイ",
    "logo": 10,
    "title": "BarAerly店主",
-   "ap": 100,
+   "ap": 60,
    "bp": 0
   }
  ]
