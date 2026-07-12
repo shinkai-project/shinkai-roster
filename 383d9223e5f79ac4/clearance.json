@@ -1,40 +1,40 @@
 {
- "ver": "2026-07-12-1540",
+ "ver": "2026-07-12-1701",
  "list": [
   {
-   "h": "3c4680b88bb480584fe060897359ef95585ae0aada8ad6a37d5926f7dd1ffdc1",
-   "cl": 4
+   "h": "053f05951c11f3699418f3179364757ee12c78eba127c8369dbdd722cb000534",
+   "cl": 5
   },
   {
-   "h": "4fc9e391035216298549f9e03b760ddf52bf1639df0018afeaf9050e8bc0d02c",
+   "h": "237d5497a1c693d2917d3a6b4b9eaf90dcadb8170941c5234a93edc3693e15b2",
    "cl": 2
   },
   {
-   "h": "6b48c121566769e7966d0aeb38e1c0f94d9c77998a2fa5f9cabbcafb88951bd7",
+   "h": "3a4a1e23d26766401df659d01f524fbd5bfa465c5f6c41714e616a2177b8abf9",
+   "cl": 5
+  },
+  {
+   "h": "5db34135dedd67dbba88e0f63a0543bd678de9f1083f323c884ac24eeeeca3f4",
    "cl": 2
   },
   {
-   "h": "8732678a83706ac19ccb237da6be006eceb762eabc705221351ac56a012889bf",
+   "h": "617094561d489b5bb555d1e1a4e57e575d047bb4c862179f43da8e7857b3ede3",
    "cl": 2
   },
   {
-   "h": "9c4089f00da43cf705a8d5ed433bcb6e3342f2377cae17ab060544d2f0e7d8b3",
+   "h": "62674d5d1ee427554e7d0a3ddad9400776f7b4f3e2d7fa97d2ae0c3d73c84242",
    "cl": 2
   },
   {
-   "h": "9e15f37bb2e2319d80972c72315bfce5d6d1b6e1927a7c8e34bda46b6ffeadc9",
+   "h": "768eb8a05403ee699b8a6375707c3bd8c4c0ee011ba599b3494960f5f94dd601",
    "cl": 2
   },
   {
-   "h": "e64a1c1e48ffd7c21e5c51cf10239cf8ef29492d7aa8356a6580473abbf3a4ac",
+   "h": "c80b62e69e0b986790afa2b4bc1dcf60a612200975cfc2ac8b706b9e9a57bb37",
    "cl": 2
   },
   {
-   "h": "ecab15a0dc5f41e30a1dc80e0a810b1ab7d2194cc98220c6f35a5fdf4e69a4ae",
-   "cl": 2
-  },
-  {
-   "h": "fca6770500d10969fb917225efd67574d80c05ee9e6d2462451031f89fda6ecf",
+   "h": "f647cd21e7e8571427ef5e555edd82cce0d8fdb4267e0fd35d7267dd3879f861",
    "cl": 2
   }
  ]
