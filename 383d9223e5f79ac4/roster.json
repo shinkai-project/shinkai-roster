@@ -1,86 +1,491 @@
 {
- "ver": "2026-07-08-1733",
+ "ver": "2026-07-16-2351",
  "members": [
   {
    "h": "3c4680b88bb480584fe060897359ef95585ae0aada8ad6a37d5926f7dd1ffdc1",
    "kind": 2,
-   "name": "スタッフ",
+   "name": "アキ",
    "logo": 13,
-   "title": "SHINKAI PR",
-   "ap": 20,
-   "bp": 5
+   "title": "Staff",
+   "ap": 0,
+   "bp": 0
   },
   {
    "h": "ecab15a0dc5f41e30a1dc80e0a810b1ab7d2194cc98220c6f35a5fdf4e69a4ae",
-   "kind": 1,
+   "kind": 2,
    "name": "アオ",
-   "logo": 8,
+   "logo": 13,
    "title": "忘却の歌姫",
-   "ap": 2,
-   "bp": 5
+   "ap": 0,
+   "bp": 0
   },
   {
    "h": "4fc9e391035216298549f9e03b760ddf52bf1639df0018afeaf9050e8bc0d02c",
-   "kind": 1,
+   "kind": 2,
    "name": "アイ",
-   "logo": 9,
-   "title": "絶望の歌姫",
-   "ap": 100,
-   "bp": 22
+   "logo": 13,
+   "title": "Staff",
+   "ap": 0,
+   "bp": 0
   },
   {
    "h": "8732678a83706ac19ccb237da6be006eceb762eabc705221351ac56a012889bf",
-   "kind": 1,
-   "name": "ゼロ",
-   "logo": 2,
-   "title": "ゼロの教会 教祖",
+   "kind": 2,
+   "name": "テミ",
+   "logo": 13,
+   "title": "Staff",
    "ap": 0,
-   "bp": 4
+   "bp": 0
   },
   {
    "h": "6b48c121566769e7966d0aeb38e1c0f94d9c77998a2fa5f9cabbcafb88951bd7",
-   "kind": 1,
+   "kind": 2,
    "name": "ドルゲ",
-   "logo": 7,
-   "title": "ヨーカイ",
-   "ap": 45,
-   "bp": 2
+   "logo": 13,
+   "title": "Staff",
+   "ap": 0,
+   "bp": 0
   },
   {
    "h": "fca6770500d10969fb917225efd67574d80c05ee9e6d2462451031f89fda6ecf",
-   "kind": 1,
-   "name": "サラ",
-   "logo": 2,
-   "title": "愛の狂信者",
-   "ap": 2,
-   "bp": 3
+   "kind": 2,
+   "name": "イズミ",
+   "logo": 13,
+   "title": "Staff",
+   "ap": 0,
+   "bp": 0
   },
   {
    "h": "e64a1c1e48ffd7c21e5c51cf10239cf8ef29492d7aa8356a6580473abbf3a4ac",
-   "kind": 1,
-   "name": "ベラ",
-   "logo": 11,
-   "title": "酩酊の闇医者",
-   "ap": 35,
-   "bp": 3
+   "kind": 2,
+   "name": "アマザケ",
+   "logo": 13,
+   "title": "Staff",
+   "ap": 0,
+   "bp": 0
   },
   {
    "h": "9c4089f00da43cf705a8d5ed433bcb6e3342f2377cae17ab060544d2f0e7d8b3",
-   "kind": 1,
+   "kind": 2,
    "name": "ユラ",
-   "logo": 12,
+   "logo": 13,
    "title": "朝焼けのカフェ店主",
-   "ap": 4,
-   "bp": 2
+   "ap": 0,
+   "bp": 0
   },
   {
    "h": "9e15f37bb2e2319d80972c72315bfce5d6d1b6e1927a7c8e34bda46b6ffeadc9",
-   "kind": 1,
+   "kind": 2,
    "name": "メイ",
-   "logo": 10,
+   "logo": 13,
    "title": "BarAerly 店",
-   "ap": 60,
-   "bp": 2
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "883a3440eba04ca8b6d4fc95deccd9342f0c5bc3608548da7fd8a735a3269b2e",
+   "kind": 1,
+   "name": "ミコミコト",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "f752d93ad2e52545e27b5eb20bcf718fc23f41b27e74a1c5449a8535d8336cec",
+   "kind": 1,
+   "name": "フミツキ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "0a4e6b580e2739330afbd084463ef4a97bb88c2c25b2ded373d2cbe407573b94",
+   "kind": 1,
+   "name": "シロン",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "480e68542f5c9b171bde629830f79e2fc50edc40076148ac6a2f8074da0d8abd",
+   "kind": 1,
+   "name": "チヤ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "7466276948dd9634e70034be22cade13e92ea28ad04375495804f335936d37f8",
+   "kind": 1,
+   "name": "サシャ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "9c16226bd9c90ea4f6b3ee417154c14ff97defae9ed51ede346141889de0ffec",
+   "kind": 1,
+   "name": "ウミ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "aaafe775f72c83045e9fe07f89e16537460786c835078dd5504aa9e3ee3073d0",
+   "kind": 1,
+   "name": "リン",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "ed88babde8d0e83db1e96ae76dcd151ebe0e22a9f8fd79ee539f5571dc2ebc41",
+   "kind": 1,
+   "name": "ヨルメシ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "05d1f301bab4491dac9a1b48b457bd3d4b58c398757cb2b849a63d241c6b3c1f",
+   "kind": 1,
+   "name": "レモンザワ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "463519f9490143499449c0336bdc60252b330833ad8e50232fa0ddd8bafcabd2",
+   "kind": 1,
+   "name": "シラヌイ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "8209c284aea318018b1fd17a3d627d22a2f42184ed4aeec2d9250825c11b02ff",
+   "kind": 1,
+   "name": "シスレー",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "331d0de1d2af9b46883e629fd57a8794c68d1b061618a7115e7d042df7143f0b",
+   "kind": 1,
+   "name": "ツカミズ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "653b0e50e6a3b2f5f300b6b3576b26785a9604e1ce514b22dc1b1d99ce375ed9",
+   "kind": 1,
+   "name": "レンレン",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "931ab25985785499b9b04aa572c7bb3dc56a8eb5b2d74ac74209c90cc6f30314",
+   "kind": 1,
+   "name": "アズ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "ec17dc194b1e222d09e2431a41c97f3f775c0e8f465771e325fb421e4d2f4df9",
+   "kind": 1,
+   "name": "ラン",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "a18b0b3347459ef775d1a3d8ff9a1b469bf61a2bcae547e608a7d6746c07d80f",
+   "kind": 1,
+   "name": "ヒバナ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "d849e2f34bc5bd922f80c1fb2275cc1225374ff8cdc0c0156c11e30781b52c44",
+   "kind": 1,
+   "name": "アルト",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "b2e476c688603bd5fe7a88c57f70309bf906e26cdd05fd552aed34f2f56b4d27",
+   "kind": 1,
+   "name": "ミーファ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "bbf4443068805bdafca329fa483dbdf13bb812bd120c4ec6ee89dbdc6b5b724a",
+   "kind": 1,
+   "name": "コウヤ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "61636cbe77c10af194588f1234a7bd8cfee8624ab4d77d61fbd51d4e1286454e",
+   "kind": 1,
+   "name": "レイラ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "c4c9ee5a62949c126bebe612085089324a27a1c659b5e0650c913c2c75877ca2",
+   "kind": 1,
+   "name": "サンカク",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "9cfd86c2cd316e3848288416f421d2505ebc42944b1401c9535c68f3f6b43061",
+   "kind": 1,
+   "name": "イニャン",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "10faa0a0942250aa296881f27e172723c09a5703004fca5f4b6dc8d260b71571",
+   "kind": 1,
+   "name": "ミハル",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "8dac01bca744a28deaedd68accbf1918c60a32effa0c5d6fa38e32d335e50eb2",
+   "kind": 1,
+   "name": "ミカン",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "1435c381221862428ea97dbf8dfef33344081810ebdd4c342a97926592985bad",
+   "kind": 1,
+   "name": "ライフ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "eae70fcc8a08990083c82c052c721c38eaf46e628e16e36d6eabce6c30bcad9c",
+   "kind": 1,
+   "name": "フィニ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "ac67425d164b1770f58e9620972653a107b7bac74a36ed1dacc7dd8f26fb3621",
+   "kind": 1,
+   "name": "セイト",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "69b73a6cd3ca3e2c98951e8a3da0235ce7081574a15ad0dac67c8ccd27629e48",
+   "kind": 1,
+   "name": "ユキミルナ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "3972950ca7bd00cf5b9c139e82d7f4bb988e8973c741f07582f706a5b8a29da7",
+   "kind": 1,
+   "name": "67san",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "86f18e3d4418b8381b2e7921e077a44294fa8355e20e26433a31ed771765f35e",
+   "kind": 1,
+   "name": "レイパ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "ec5c0c43a78127b116383f81084cd220baedd34d49fc268a0793aecfcc79ef6d",
+   "kind": 1,
+   "name": "イルカ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "ac155522189c346a53512ceabc7a748056edc410e9327f3eb5cc7feb8d7c80d8",
+   "kind": 1,
+   "name": "ゲソ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "22865bc332627a8add89edb492eef85d97a8ddd139d89dcffc5e5282a0d08962",
+   "kind": 1,
+   "name": "マロチャ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "267ae58ebe7a4deb64ff6887650d417353786f0a955e8a629fe6a86499cb7299",
+   "kind": 1,
+   "name": "マンプク",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "a4d7729ac9652b8c8d9c83ad3820efcd3334cb2d6985d129c4c031890154e11f",
+   "kind": 1,
+   "name": "カザミ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "eaafef7db4f0460944fcd95a1d1bc86360319858eeeae65946b4779e29435cac",
+   "kind": 1,
+   "name": "ライム",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "575a6197af3e3c0fcd1a67a0440b5a44f4e2ae83d1645bf7929ed924b2ea2267",
+   "kind": 1,
+   "name": "セナ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "4c8436ce2ed9c419d984357bbf13e2f90bc367c0239562d8011eea01816afc50",
+   "kind": 1,
+   "name": "ルミナ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "43c6775a797e4af7c7930139496384a96c651f6d8985816b84a9cc2dd2ab3b8a",
+   "kind": 1,
+   "name": "エッジ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "bedd401fc89c31b7d0daca9492af589ffb20731808e270d600cc147129d73c8b",
+   "kind": 1,
+   "name": "ミイタ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "0f77bd3b25511d82da9ff673bda182f8708ac700b480285808a27653b06a4a99",
+   "kind": 1,
+   "name": "ペン",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "35132225468eb3764ad00e47e2a746e3e21769c6dc5b9d697974b7a0e7ed61a7",
+   "kind": 1,
+   "name": "シュリア",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "73e0037608b8e5f68d2ffcd2d9584cdb409b099b3c7b095434ed21fca0853b4d",
+   "kind": 1,
+   "name": "グラス",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "322bc80b96d64e4e7c8b42251a4f547485873f6e03773582dcc4c8b319ccae5e",
+   "kind": 1,
+   "name": "ジャガイモ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "3e263259c98c2bc3b6f205d05139b05c1e6e6be843ad6e9f87b45c69c2e9606f",
+   "kind": 1,
+   "name": "ユズ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
   }
  ]
 }
