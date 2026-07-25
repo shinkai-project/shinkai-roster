@@ -1,6 +1,132 @@
 {
- "ver": "2026-07-25-2035",
+ "ver": "2026-07-25-2039",
  "members": [
+  {
+   "h": "0942066eed959162399dae55c06dd7c8bad47d3ecd2b751c2651cdb6bde24fa5",
+   "kind": 0,
+   "name": "やい",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "3030fa895cb5d960f152a98e79aee7e254fd32dc57226717990737047f238253",
+   "kind": 0,
+   "name": "クリミナ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "5b1c6ea5d144066bbe336a0ff1ad1323d697a20e24edd74a6e294bae4f150e98",
+   "kind": 0,
+   "name": "苅田狐",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "dda8a2f3b27bc3924464304a623c5e42418354015e09409576a076b963302f59",
+   "kind": 0,
+   "name": "日洛",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "dca6fb915a5e88fe7f14720d0d7873cd4a3b5f17faf0975afa3f670e426d7530",
+   "kind": 0,
+   "name": "モナーク",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "3a0b807a52c5f5dee19619cf6d987f9300589b47bf5be9dbff17b2434597adca",
+   "kind": 0,
+   "name": "おそれみにえ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "4b3a4352462d7a50e15910931f7804daf194923559614529cf158667e2f6b24a",
+   "kind": 0,
+   "name": "あとみ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "8ba5fbcc2a3eb4721e8b776366114523921cd52eaed04e8d1f433bf7409ad945",
+   "kind": 0,
+   "name": "ねこ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "b4d644a9e1d9fa430ee6a0d036f87132e601d0ff1d1e78b2c2af5712b9ea1060",
+   "kind": 0,
+   "name": "SABA",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "9be879af596f530130c12e2b563a07ed26019556cb7c414def9681d3f08615ec",
+   "kind": 0,
+   "name": "アカツキ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "156c6457200696a48bde3c37db1fea7950698bc10823ed4559303f6af852e4d7",
+   "kind": 0,
+   "name": "マコト",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "86d5970ce41afb1013e780d866ff737891c625f54692931b748cc73c023d42c6",
+   "kind": 0,
+   "name": "ドラン",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "3d34cee8dae05c6bf17cfcb75993b263851e3ff028c7e096bd033a74505f934f",
+   "kind": 0,
+   "name": "鈴音ハル",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
+  {
+   "h": "7a26b170dad35fec247aa5d6f08d98a6d6922b7024df5ca93208568657fad9bd",
+   "kind": 0,
+   "name": "ワラビ",
+   "logo": 0,
+   "title": "深海の住民",
+   "ap": 0,
+   "bp": 0
+  },
   {
    "h": "3c4680b88bb480584fe060897359ef95585ae0aada8ad6a37d5926f7dd1ffdc1",
    "kind": 2,
