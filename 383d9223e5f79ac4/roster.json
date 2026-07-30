@@ -1,5 +1,5 @@
 {
- "ver": "2026-07-30-1952",
+ "ver": "2026-07-30-2045",
  "members": [
   {
    "h": "0942066eed959162399dae55c06dd7c8bad47d3ecd2b751c2651cdb6bde24fa5",
@@ -124,96 +124,6 @@
    "name": "ワラビ",
    "logo": 0,
    "title": "",
-   "ap": 0,
-   "bp": 0
-  },
-  {
-   "h": "9e15f37bb2e2319d80972c72315bfce5d6d1b6e1927a7c8e34bda46b6ffeadc9",
-   "kind": 0,
-   "name": "メイ",
-   "logo": 0,
-   "title": "",
-   "ap": 0,
-   "bp": 0
-  },
-  {
-   "h": "3c4680b88bb480584fe060897359ef95585ae0aada8ad6a37d5926f7dd1ffdc1",
-   "kind": 1,
-   "name": "メイ",
-   "logo": 10,
-   "title": "BarAerly店主",
-   "ap": 75,
-   "bp": 0
-  },
-  {
-   "h": "ecab15a0dc5f41e30a1dc80e0a810b1ab7d2194cc98220c6f35a5fdf4e69a4ae",
-   "kind": 2,
-   "name": "アオ",
-   "logo": 13,
-   "title": "忘却の歌姫",
-   "ap": 0,
-   "bp": 0
-  },
-  {
-   "h": "4fc9e391035216298549f9e03b760ddf52bf1639df0018afeaf9050e8bc0d02c",
-   "kind": 2,
-   "name": "アイ",
-   "logo": 13,
-   "title": "Staff",
-   "ap": 0,
-   "bp": 0
-  },
-  {
-   "h": "8732678a83706ac19ccb237da6be006eceb762eabc705221351ac56a012889bf",
-   "kind": 2,
-   "name": "テミ",
-   "logo": 13,
-   "title": "Staff",
-   "ap": 0,
-   "bp": 0
-  },
-  {
-   "h": "6b48c121566769e7966d0aeb38e1c0f94d9c77998a2fa5f9cabbcafb88951bd7",
-   "kind": 2,
-   "name": "ドルゲ",
-   "logo": 13,
-   "title": "Staff",
-   "ap": 0,
-   "bp": 0
-  },
-  {
-   "h": "fca6770500d10969fb917225efd67574d80c05ee9e6d2462451031f89fda6ecf",
-   "kind": 2,
-   "name": "イズミ",
-   "logo": 13,
-   "title": "Staff",
-   "ap": 0,
-   "bp": 0
-  },
-  {
-   "h": "e64a1c1e48ffd7c21e5c51cf10239cf8ef29492d7aa8356a6580473abbf3a4ac",
-   "kind": 2,
-   "name": "アマザケ",
-   "logo": 13,
-   "title": "Staff",
-   "ap": 0,
-   "bp": 0
-  },
-  {
-   "h": "9c4089f00da43cf705a8d5ed433bcb6e3342f2377cae17ab060544d2f0e7d8b3",
-   "kind": 2,
-   "name": "ユラ",
-   "logo": 13,
-   "title": "朝焼けのカフェ店主",
-   "ap": 0,
-   "bp": 0
-  },
-  {
-   "h": "ca3a978cf8f8de073707437b64e28a9accffe3eb2e8ecc87d95c558c4490ea90",
-   "kind": 2,
-   "name": "メイ",
-   "logo": 13,
-   "title": "BarAerly 店",
    "ap": 0,
    "bp": 0
   },
