@@ -1,5 +1,5 @@
 {
- "ver": "2026-07-30-1758",
+ "ver": "2026-07-30-1803",
  "members": [
   {
    "h": "0942066eed959162399dae55c06dd7c8bad47d3ecd2b751c2651cdb6bde24fa5",
@@ -129,7 +129,7 @@
   },
   {
    "h": "3c4680b88bb480584fe060897359ef95585ae0aada8ad6a37d5926f7dd1ffdc1",
-   "kind": 2,
+   "kind": 1,
    "name": "メイ",
    "logo": 10,
    "title": "BarAerly店主",
