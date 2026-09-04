@@ -1,5 +1,5 @@
 {
- "ver": "2026-09-03-0112",
+ "ver": "2026-09-04-2043",
  "members": [
   {
    "h": "0942066eed959162399dae55c06dd7c8bad47d3ecd2b751c2651cdb6bde24fa5",
@@ -221,7 +221,7 @@
    "h": "883a3440eba04ca8b6d4fc95deccd9342f0c5bc3608548da7fd8a735a3269b2e",
    "kind": 1,
    "name": "ミモリ",
-   "logo": 4,
+   "logo": 13,
    "title": "深海の住民",
    "ap": 0,
    "bp": 0
@@ -230,7 +230,7 @@
    "h": "7466276948dd9634e70034be22cade13e92ea28ad04375495804f335936d37f8",
    "kind": 1,
    "name": "ソウ",
-   "logo": 4,
+   "logo": 13,
    "title": "深海の住民",
    "ap": 0,
    "bp": 0
@@ -239,7 +239,7 @@
    "h": "9c16226bd9c90ea4f6b3ee417154c14ff97defae9ed51ede346141889de0ffec",
    "kind": 1,
    "name": "サハラ",
-   "logo": 4,
+   "logo": 13,
    "title": "深海の住民",
    "ap": 0,
    "bp": 0
@@ -248,7 +248,7 @@
    "h": "fce38db5e11b563e1ea5cdfe40e3840ec5d77b781098b1040e7798dfbb48952d",
    "kind": 1,
    "name": "マツリ",
-   "logo": 4,
+   "logo": 13,
    "title": "深海の住民",
    "ap": 0,
    "bp": 0
@@ -257,16 +257,16 @@
    "h": "653b0e50e6a3b2f5f300b6b3576b26785a9604e1ce514b22dc1b1d99ce375ed9",
    "kind": 1,
    "name": "レイン",
-   "logo": 4,
-   "title": "深海の住民",
+   "logo": 13,
+   "title": "夜航",
    "ap": 0,
    "bp": 0
   },
   {
-   "h": "931ab25985785499b9b04aa572c7bb3dc56a8eb5b2d74ac74209c90cc6f30314",
+   "h": "f8ae4202f09aef19dbf7848ae27160617f7e8652e09edf70762356f602eb8755",
    "kind": 1,
    "name": "アズ",
-   "logo": 4,
+   "logo": 13,
    "title": "深海の住民",
    "ap": 0,
    "bp": 0
@@ -275,7 +275,7 @@
    "h": "ec17dc194b1e222d09e2431a41c97f3f775c0e8f465771e325fb421e4d2f4df9",
    "kind": 1,
    "name": "ガイガラ",
-   "logo": 4,
+   "logo": 13,
    "title": "深海の住民",
    "ap": 0,
    "bp": 0
@@ -284,8 +284,8 @@
    "h": "eaafef7db4f0460944fcd95a1d1bc86360319858eeeae65946b4779e29435cac",
    "kind": 1,
    "name": "クーロ",
-   "logo": 4,
-   "title": "深海の住民",
+   "logo": 3,
+   "title": "規制局",
    "ap": 0,
    "bp": 0
   },
@@ -293,7 +293,7 @@
    "h": "bedd401fc89c31b7d0daca9492af589ffb20731808e270d600cc147129d73c8b",
    "kind": 1,
    "name": "ネメシア",
-   "logo": 4,
+   "logo": 13,
    "title": "深海の住民",
    "ap": 0,
    "bp": 0
@@ -302,7 +302,7 @@
    "h": "35132225468eb3764ad00e47e2a746e3e21769c6dc5b9d697974b7a0e7ed61a7",
    "kind": 1,
    "name": "ディーネ",
-   "logo": 4,
+   "logo": 13,
    "title": "深海の住民",
    "ap": 0,
    "bp": 0
@@ -311,8 +311,8 @@
    "h": "575a6197af3e3c0fcd1a67a0440b5a44f4e2ae83d1645bf7929ed924b2ea2267",
    "kind": 1,
    "name": "魔女",
-   "logo": 4,
-   "title": "深海の住民",
+   "logo": 13,
+   "title": "星縫い",
    "ap": 0,
    "bp": 0
   },
@@ -320,7 +320,7 @@
    "h": "10faa0a0942250aa296881f27e172723c09a5703004fca5f4b6dc8d260b71571",
    "kind": 1,
    "name": "アンベル",
-   "logo": 4,
+   "logo": 13,
    "title": "深海の住民",
    "ap": 0,
    "bp": 0
@@ -329,7 +329,7 @@
    "h": "a4d7729ac9652b8c8d9c83ad3820efcd3334cb2d6985d129c4c031890154e11f",
    "kind": 1,
    "name": "エリオ",
-   "logo": 4,
+   "logo": 13,
    "title": "深海の住民",
    "ap": 0,
    "bp": 0
@@ -338,7 +338,7 @@
    "h": "0f77bd3b25511d82da9ff673bda182f8708ac700b480285808a27653b06a4a99",
    "kind": 1,
    "name": "アポロ",
-   "logo": 4,
+   "logo": 13,
    "title": "深海の住民",
    "ap": 0,
    "bp": 0
@@ -347,7 +347,7 @@
    "h": "bbf4443068805bdafca329fa483dbdf13bb812bd120c4ec6ee89dbdc6b5b724a",
    "kind": 1,
    "name": "ビオラ",
-   "logo": 4,
+   "logo": 13,
    "title": "深海の住民",
    "ap": 0,
    "bp": 0
@@ -356,7 +356,7 @@
    "h": "c4c9ee5a62949c126bebe612085089324a27a1c659b5e0650c913c2c75877ca2",
    "kind": 1,
    "name": "ミラ",
-   "logo": 4,
+   "logo": 13,
    "title": "深海の住民",
    "ap": 0,
    "bp": 0
@@ -365,8 +365,8 @@
    "h": "86f18e3d4418b8381b2e7921e077a44294fa8355e20e26433a31ed771765f35e",
    "kind": 1,
    "name": "シオリ",
-   "logo": 4,
-   "title": "深海の住民",
+   "logo": 13,
+   "title": "民生局",
    "ap": 0,
    "bp": 0
   },
@@ -374,7 +374,7 @@
    "h": "228dd619096fa7cfd179f4d20b8fe875d736803d4f90b13eba97a99245bc3121",
    "kind": 1,
    "name": "ウズメ",
-   "logo": 4,
+   "logo": 13,
    "title": "深海の住民",
    "ap": 0,
    "bp": 0
@@ -383,8 +383,8 @@
    "h": "8dac01bca744a28deaedd68accbf1918c60a32effa0c5d6fa38e32d335e50eb2",
    "kind": 1,
    "name": "キア",
-   "logo": 4,
-   "title": "深海の住民",
+   "logo": 13,
+   "title": "探検家",
    "ap": 0,
    "bp": 0
   },
@@ -392,8 +392,8 @@
    "h": "73e0037608b8e5f68d2ffcd2d9584cdb409b099b3c7b095434ed21fca0853b4d",
    "kind": 1,
    "name": "アルク",
-   "logo": 4,
-   "title": "深海の住民",
+   "logo": 13,
+   "title": "設計者",
    "ap": 0,
    "bp": 0
   },
@@ -401,8 +401,8 @@
    "h": "9cfd86c2cd316e3848288416f421d2505ebc42944b1401c9535c68f3f6b43061",
    "kind": 1,
    "name": "ウツロ",
-   "logo": 4,
-   "title": "深海の住民",
+   "logo": 13,
+   "title": "写真家",
    "ap": 0,
    "bp": 0
   },
@@ -410,7 +410,7 @@
    "h": "d8e3c7e7ffde246749f33920450ed7132bde2b49939c77bb5c27c8a70d387876",
    "kind": 1,
    "name": "アキ",
-   "logo": 4,
+   "logo": 13,
    "title": "深海の住民",
    "ap": 0,
    "bp": 0
