@@ -1,5 +1,5 @@
 {
- "ver": "2026-09-04-2043",
+ "ver": "2026-09-07-2134",
  "members": [
   {
    "h": "0942066eed959162399dae55c06dd7c8bad47d3ecd2b751c2651cdb6bde24fa5",
@@ -230,9 +230,9 @@
    "h": "7466276948dd9634e70034be22cade13e92ea28ad04375495804f335936d37f8",
    "kind": 1,
    "name": "ソウ",
-   "logo": 13,
-   "title": "深海の住民",
-   "ap": 0,
+   "logo": 4,
+   "title": "墓守",
+   "ap": 40,
    "bp": 0
   },
   {
@@ -248,9 +248,9 @@
    "h": "fce38db5e11b563e1ea5cdfe40e3840ec5d77b781098b1040e7798dfbb48952d",
    "kind": 1,
    "name": "マツリ",
-   "logo": 13,
-   "title": "深海の住民",
-   "ap": 0,
+   "logo": 4,
+   "title": "作曲家",
+   "ap": 47,
    "bp": 0
   },
   {
@@ -275,9 +275,9 @@
    "h": "ec17dc194b1e222d09e2431a41c97f3f775c0e8f465771e325fb421e4d2f4df9",
    "kind": 1,
    "name": "ガイガラ",
-   "logo": 13,
-   "title": "深海の住民",
-   "ap": 0,
+   "logo": 7,
+   "title": "喧騒家",
+   "ap": 25,
    "bp": 0
   },
   {
@@ -293,8 +293,8 @@
    "h": "bedd401fc89c31b7d0daca9492af589ffb20731808e270d600cc147129d73c8b",
    "kind": 1,
    "name": "ネメシア",
-   "logo": 13,
-   "title": "深海の住民",
+   "logo": 4,
+   "title": "マスター",
    "ap": 0,
    "bp": 0
   },
@@ -347,18 +347,18 @@
    "h": "bbf4443068805bdafca329fa483dbdf13bb812bd120c4ec6ee89dbdc6b5b724a",
    "kind": 1,
    "name": "ビオラ",
-   "logo": 13,
-   "title": "深海の住民",
-   "ap": 0,
+   "logo": 4,
+   "title": "護り手",
+   "ap": 22,
    "bp": 0
   },
   {
    "h": "c4c9ee5a62949c126bebe612085089324a27a1c659b5e0650c913c2c75877ca2",
    "kind": 1,
    "name": "ミラ",
-   "logo": 13,
-   "title": "深海の住民",
-   "ap": 0,
+   "logo": 4,
+   "title": "道化師",
+   "ap": 17,
    "bp": 0
   },
   {
@@ -374,9 +374,9 @@
    "h": "228dd619096fa7cfd179f4d20b8fe875d736803d4f90b13eba97a99245bc3121",
    "kind": 1,
    "name": "ウズメ",
-   "logo": 13,
-   "title": "深海の住民",
-   "ap": 0,
+   "logo": 4,
+   "title": "踊り手",
+   "ap": 70,
    "bp": 0
   },
   {
