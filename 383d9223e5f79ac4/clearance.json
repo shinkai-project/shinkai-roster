@@ -1,9 +1,9 @@
 {
- "ver": "2026-09-11-2050",
+ "ver": "2026-09-18-0846",
  "list": [
   {
    "h": "053f05951c11f3699418f3179364757ee12c78eba127c8369dbdd722cb000534",
-   "cl": 2
+   "cl": 3
   },
   {
    "h": "130cf029d45e53cf403e0f96125bbfe26239afd2574e3b27c34045eea84784cc",
@@ -23,11 +23,11 @@
   },
   {
    "h": "237d5497a1c693d2917d3a6b4b9eaf90dcadb8170941c5234a93edc3693e15b2",
-   "cl": 2
+   "cl": 3
   },
   {
    "h": "3a4a1e23d26766401df659d01f524fbd5bfa465c5f6c41714e616a2177b8abf9",
-   "cl": 2
+   "cl": 5
   },
   {
    "h": "4add2a449c7e407881a4cee13b700713a1e1094c0adb6b27872c5faebd6053e9",
@@ -43,15 +43,15 @@
   },
   {
    "h": "5db34135dedd67dbba88e0f63a0543bd678de9f1083f323c884ac24eeeeca3f4",
-   "cl": 2
+   "cl": 3
   },
   {
    "h": "617094561d489b5bb555d1e1a4e57e575d047bb4c862179f43da8e7857b3ede3",
-   "cl": 2
+   "cl": 3
   },
   {
    "h": "62674d5d1ee427554e7d0a3ddad9400776f7b4f3e2d7fa97d2ae0c3d73c84242",
-   "cl": 2
+   "cl": 3
   },
   {
    "h": "71e7907d17ee6d66f03170f997cde9718682a638effc9bde5f8205d8c2e7abc0",
@@ -59,7 +59,7 @@
   },
   {
    "h": "768eb8a05403ee699b8a6375707c3bd8c4c0ee011ba599b3494960f5f94dd601",
-   "cl": 2
+   "cl": 3
   },
   {
    "h": "7be73a79de0783f27b1d3b12bef6ac37e59584afb1b8e015c5f9689f893243d5",
@@ -91,7 +91,7 @@
   },
   {
    "h": "9b1e189ed27a4b2ac71b25deae662b7d2952fe78b11bc964c0baeef0a73c552c",
-   "cl": 2
+   "cl": 5
   },
   {
    "h": "a902771dd6d0b9d59db483e1cf2297493abe3e9900aa4a7df710893b96809ea1",
@@ -103,7 +103,7 @@
   },
   {
    "h": "c56207ca33d52048cbd820e229956b699abf906d6fb454d3c404454ca79fef14",
-   "cl": 2
+   "cl": 3
   },
   {
    "h": "c61dfa7b5c40864920175068ce6a94dca12a29ef37ebde0d0a380773c8ba2d35",
@@ -111,7 +111,7 @@
   },
   {
    "h": "c80b62e69e0b986790afa2b4bc1dcf60a612200975cfc2ac8b706b9e9a57bb37",
-   "cl": 2
+   "cl": 3
   },
   {
    "h": "e7ecaa414412c54e7073be85b40b219fe9647dc0d28b805777fbd3d72bd9a3b9",
@@ -119,11 +119,11 @@
   },
   {
    "h": "f24fc39d48c99738a41c5db7841efd1aaec5b904b46452f24b52b0490eff6ac5",
-   "cl": 2
+   "cl": 3
   },
   {
    "h": "f647cd21e7e8571427ef5e555edd82cce0d8fdb4267e0fd35d7267dd3879f861",
-   "cl": 2
+   "cl": 3
   }
  ]
 }
