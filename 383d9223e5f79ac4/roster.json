@@ -1,5 +1,5 @@
 {
- "ver": "2026-10-02-1620",
+ "ver": "2026-10-02-1717",
  "members": [
   {
    "h": "0942066eed959162399dae55c06dd7c8bad47d3ecd2b751c2651cdb6bde24fa5",
@@ -205,15 +205,6 @@
    "name": "ユラ",
    "logo": 13,
    "title": "深海の住民",
-   "ap": 0,
-   "bp": 0
-  },
-  {
-   "h": "9e15f37bb2e2319d80972c72315bfce5d6d1b6e1927a7c8e34bda46b6ffeadc9",
-   "kind": 1,
-   "name": "スタッフ",
-   "logo": 13,
-   "title": "画家",
    "ap": 0,
    "bp": 0
   },
