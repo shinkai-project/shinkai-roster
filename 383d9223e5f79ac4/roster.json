@@ -1,5 +1,5 @@
 {
- "ver": "2026-10-02-1558",
+ "ver": "2026-10-02-1620",
  "members": [
   {
    "h": "0942066eed959162399dae55c06dd7c8bad47d3ecd2b751c2651cdb6bde24fa5",
@@ -139,9 +139,9 @@
   {
    "h": "3c4680b88bb480584fe060897359ef95585ae0aada8ad6a37d5926f7dd1ffdc1",
    "kind": 1,
-   "name": "メイ",
+   "name": "スタッフ",
    "logo": 13,
-   "title": "画家",
+   "title": "深海の住民",
    "ap": 0,
    "bp": 0
   },
@@ -157,7 +157,7 @@
   {
    "h": "4fc9e391035216298549f9e03b760ddf52bf1639df0018afeaf9050e8bc0d02c",
    "kind": 1,
-   "name": "アイ",
+   "name": "スタッフ",
    "logo": 13,
    "title": "歌い手",
    "ap": 0,
@@ -166,36 +166,36 @@
   {
    "h": "8732678a83706ac19ccb237da6be006eceb762eabc705221351ac56a012889bf",
    "kind": 1,
-   "name": "？？",
+   "name": "スタッフ",
    "logo": 13,
-   "title": "？？？",
+   "title": "深海の住民",
    "ap": 0,
    "bp": 0
   },
   {
    "h": "6b48c121566769e7966d0aeb38e1c0f94d9c77998a2fa5f9cabbcafb88951bd7",
    "kind": 1,
-   "name": "ドルゲ",
+   "name": "スタッフ",
    "logo": 13,
-   "title": "運び屋",
+   "title": "深海の住民",
    "ap": 0,
    "bp": 0
   },
   {
    "h": "fca6770500d10969fb917225efd67574d80c05ee9e6d2462451031f89fda6ecf",
    "kind": 1,
-   "name": "サラ",
+   "name": "スタッフ",
    "logo": 13,
-   "title": "信奉者",
+   "title": "深海の住民",
    "ap": 0,
    "bp": 0
   },
   {
    "h": "e64a1c1e48ffd7c21e5c51cf10239cf8ef29492d7aa8356a6580473abbf3a4ac",
    "kind": 1,
-   "name": "ベラ",
+   "name": "スタッフ",
    "logo": 13,
-   "title": "裏医者",
+   "title": "深海の住民",
    "ap": 0,
    "bp": 0
   },
@@ -204,14 +204,14 @@
    "kind": 1,
    "name": "ユラ",
    "logo": 13,
-   "title": "スタッフ",
+   "title": "深海の住民",
    "ap": 0,
    "bp": 0
   },
   {
    "h": "9e15f37bb2e2319d80972c72315bfce5d6d1b6e1927a7c8e34bda46b6ffeadc9",
    "kind": 1,
-   "name": "メイ",
+   "name": "スタッフ",
    "logo": 13,
    "title": "画家",
    "ap": 0,
@@ -220,9 +220,9 @@
   {
    "h": "d8e3c7e7ffde246749f33920450ed7132bde2b49939c77bb5c27c8a70d387876",
    "kind": 1,
-   "name": "メイ",
+   "name": "スタッフ",
    "logo": 13,
-   "title": "画家",
+   "title": "深海の住民",
    "ap": 70,
    "bp": 0
   },
