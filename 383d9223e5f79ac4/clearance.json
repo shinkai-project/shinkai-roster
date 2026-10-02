@@ -1,5 +1,5 @@
 {
- "ver": "2026-09-18-0846",
+ "ver": "2026-10-02-1558",
  "list": [
   {
    "h": "053f05951c11f3699418f3179364757ee12c78eba127c8369dbdd722cb000534",
@@ -7,14 +7,6 @@
   },
   {
    "h": "130cf029d45e53cf403e0f96125bbfe26239afd2574e3b27c34045eea84784cc",
-   "cl": 2
-  },
-  {
-   "h": "14286b081503c9b107bd62d2369a267cd9728153f49414fce32bf0ba1630bbc9",
-   "cl": 2
-  },
-  {
-   "h": "194f9169c2e8fe9b4c22e6ab8e7ca0a4e17d3aca71a8a992b9062e894fe8e372",
    "cl": 2
   },
   {
@@ -28,18 +20,6 @@
   {
    "h": "3a4a1e23d26766401df659d01f524fbd5bfa465c5f6c41714e616a2177b8abf9",
    "cl": 5
-  },
-  {
-   "h": "4add2a449c7e407881a4cee13b700713a1e1094c0adb6b27872c5faebd6053e9",
-   "cl": 2
-  },
-  {
-   "h": "568b9bd10948e5397da346613951cf2d291f979c042df772b38e5c2fddbbe892",
-   "cl": 2
-  },
-  {
-   "h": "5bbb6997e639c0825c78cc1693604b7ce6d4fda5285c541fe311b2fd62066f90",
-   "cl": 2
   },
   {
    "h": "5db34135dedd67dbba88e0f63a0543bd678de9f1083f323c884ac24eeeeca3f4",
@@ -62,31 +42,11 @@
    "cl": 3
   },
   {
-   "h": "7be73a79de0783f27b1d3b12bef6ac37e59584afb1b8e015c5f9689f893243d5",
-   "cl": 2
-  },
-  {
    "h": "7c8f7b8e6473ee64c724fa864c324a590b3b81307c91aef2e7d4cb4d24960156",
    "cl": 2
   },
   {
    "h": "8fa0a01b696afee4561a8d4bd553ae99b4c6673c5201c04513e691e9e0bf5fa3",
-   "cl": 2
-  },
-  {
-   "h": "9155c3a9c570433bd3140bac65d4f59f78577bedbfc1ca00ca8e3c4157863238",
-   "cl": 2
-  },
-  {
-   "h": "95383147a8642210b70cfb0040323d4e0f012aeda539a36bad12fec2ff139323",
-   "cl": 2
-  },
-  {
-   "h": "953fb81a7c2b33c1e15d15f16fcca8471e44165ff13347e0f17a82b6368a18b4",
-   "cl": 2
-  },
-  {
-   "h": "999121e74a3482ddbd81729a896606388eae8854f3160a842cf07b83e5e98110",
    "cl": 2
   },
   {
@@ -98,24 +58,8 @@
    "cl": 2
   },
   {
-   "h": "c2ea8bd4f27b55795225838e84e2f5faeeadf28033e37b53f8b1d447a4ab9d81",
-   "cl": 2
-  },
-  {
-   "h": "c56207ca33d52048cbd820e229956b699abf906d6fb454d3c404454ca79fef14",
-   "cl": 3
-  },
-  {
-   "h": "c61dfa7b5c40864920175068ce6a94dca12a29ef37ebde0d0a380773c8ba2d35",
-   "cl": 2
-  },
-  {
    "h": "c80b62e69e0b986790afa2b4bc1dcf60a612200975cfc2ac8b706b9e9a57bb37",
    "cl": 3
-  },
-  {
-   "h": "e7ecaa414412c54e7073be85b40b219fe9647dc0d28b805777fbd3d72bd9a3b9",
-   "cl": 2
   },
   {
    "h": "f24fc39d48c99738a41c5db7841efd1aaec5b904b46452f24b52b0490eff6ac5",
