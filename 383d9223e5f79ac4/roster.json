@@ -1,5 +1,5 @@
 {
- "ver": "2026-10-18-1907",
+ "ver": "2026-10-21-0727",
  "members": [
   {
    "h": "0942066eed959162399dae55c06dd7c8bad47d3ecd2b751c2651cdb6bde24fa5",
@@ -139,7 +139,7 @@
   {
    "h": "3c4680b88bb480584fe060897359ef95585ae0aada8ad6a37d5926f7dd1ffdc1",
    "kind": 1,
-   "name": "スタッフ",
+   "name": "アキ",
    "logo": 13,
    "title": "深海の住民",
    "ap": 0,
@@ -157,7 +157,7 @@
   {
    "h": "4fc9e391035216298549f9e03b760ddf52bf1639df0018afeaf9050e8bc0d02c",
    "kind": 1,
-   "name": "スタッフ",
+   "name": "アギ",
    "logo": 13,
    "title": "歌い手",
    "ap": 0,
@@ -166,7 +166,7 @@
   {
    "h": "8732678a83706ac19ccb237da6be006eceb762eabc705221351ac56a012889bf",
    "kind": 1,
-   "name": "スタッフ",
+   "name": "テミ",
    "logo": 13,
    "title": "深海の住民",
    "ap": 0,
@@ -175,7 +175,7 @@
   {
    "h": "6b48c121566769e7966d0aeb38e1c0f94d9c77998a2fa5f9cabbcafb88951bd7",
    "kind": 1,
-   "name": "スタッフ",
+   "name": "ドルゲ",
    "logo": 13,
    "title": "深海の住民",
    "ap": 0,
@@ -184,7 +184,7 @@
   {
    "h": "fca6770500d10969fb917225efd67574d80c05ee9e6d2462451031f89fda6ecf",
    "kind": 1,
-   "name": "スタッフ",
+   "name": "イズミ",
    "logo": 13,
    "title": "深海の住民",
    "ap": 0,
@@ -193,7 +193,7 @@
   {
    "h": "e64a1c1e48ffd7c21e5c51cf10239cf8ef29492d7aa8356a6580473abbf3a4ac",
    "kind": 1,
-   "name": "スタッフ",
+   "name": "アマザケ",
    "logo": 13,
    "title": "深海の住民",
    "ap": 0,
@@ -211,11 +211,11 @@
   {
    "h": "9e15f37bb2e2319d80972c72315bfce5d6d1b6e1927a7c8e34bda46b6ffeadc9",
    "kind": 1,
-   "name": "スタッフ",
+   "name": "メイ",
    "logo": 13,
    "title": "画家",
-   "ap": 0,
-   "bp": 0
+   "ap": 70,
+   "bp": 3
   },
   {
    "h": "d8e3c7e7ffde246749f33920450ed7132bde2b49939c77bb5c27c8a70d387876",
@@ -296,7 +296,7 @@
    "logo": 13,
    "title": "民生局",
    "ap": 0,
-   "bp": 0
+   "bp": 66
   },
   {
    "h": "653b0e50e6a3b2f5f300b6b3576b26785a9604e1ce514b22dc1b1d99ce375ed9",
@@ -305,7 +305,7 @@
    "logo": 13,
    "title": "夜航",
    "ap": 7,
-   "bp": 0
+   "bp": 52
   },
   {
    "h": "73e0037608b8e5f68d2ffcd2d9584cdb409b099b3c7b095434ed21fca0853b4d",
@@ -314,7 +314,7 @@
    "logo": 13,
    "title": "設計者",
    "ap": 23,
-   "bp": 0
+   "bp": 50
   },
   {
    "h": "9cfd86c2cd316e3848288416f421d2505ebc42944b1401c9535c68f3f6b43061",
@@ -323,7 +323,7 @@
    "logo": 13,
    "title": "写真家",
    "ap": 59,
-   "bp": 0
+   "bp": 20
   },
   {
    "h": "8dac01bca744a28deaedd68accbf1918c60a32effa0c5d6fa38e32d335e50eb2",
@@ -332,7 +332,7 @@
    "logo": 13,
    "title": "探検家",
    "ap": 50,
-   "bp": 0
+   "bp": 48
   },
   {
    "h": "eaafef7db4f0460944fcd95a1d1bc86360319858eeeae65946b4779e29435cac",
@@ -341,7 +341,7 @@
    "logo": 3,
    "title": "規制局",
    "ap": 0,
-   "bp": 0
+   "bp": 70
   },
   {
    "h": "575a6197af3e3c0fcd1a67a0440b5a44f4e2ae83d1645bf7929ed924b2ea2267",
@@ -350,7 +350,7 @@
    "logo": 13,
    "title": "星縫い",
    "ap": 60,
-   "bp": 0
+   "bp": 12
   },
   {
    "h": "ec17dc194b1e222d09e2431a41c97f3f775c0e8f465771e325fb421e4d2f4df9",
