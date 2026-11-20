@@ -1,5 +1,5 @@
 {
- "ver": "2026-11-20-0705",
+ "ver": "2026-11-20-1905",
  "members": [
   {
    "h": "0942066eed959162399dae55c06dd7c8bad47d3ecd2b751c2651cdb6bde24fa5",
@@ -182,15 +182,6 @@
    "bp": 0
   },
   {
-   "h": "fca6770500d10969fb917225efd67574d80c05ee9e6d2462451031f89fda6ecf",
-   "kind": 1,
-   "name": "イズミ",
-   "logo": 13,
-   "title": "深海の住民",
-   "ap": 0,
-   "bp": 0
-  },
-  {
    "h": "e64a1c1e48ffd7c21e5c51cf10239cf8ef29492d7aa8356a6580473abbf3a4ac",
    "kind": 1,
    "name": "アマザケ",
@@ -207,15 +198,6 @@
    "title": "深海の住民",
    "ap": 0,
    "bp": 0
-  },
-  {
-   "h": "9e15f37bb2e2319d80972c72315bfce5d6d1b6e1927a7c8e34bda46b6ffeadc9",
-   "kind": 1,
-   "name": "メイ",
-   "logo": 13,
-   "title": "画家",
-   "ap": 70,
-   "bp": 3
   },
   {
    "h": "d8e3c7e7ffde246749f33920450ed7132bde2b49939c77bb5c27c8a70d387876",
